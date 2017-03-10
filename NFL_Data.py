@@ -76,6 +76,5 @@ print(Spread_df.head())
 print(Spread_df.tail())
 
 Spread_df.to_csv("NFL_data_1985_to_2016.csv")
-Spread_df.to_excel("NFL_data_1985_to_2016.xlsx")
 
 
